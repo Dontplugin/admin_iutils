@@ -18,7 +18,7 @@
     <header>
         <!-- logo -->
         <div class="am-fl tpl-header-logo">
-            <a href="${ctx}"><img src="${ctxStatic}/assets/img/logo.png" alt=""></a>
+            <%--<a href="${ctx}"><img src="${ctxStatic}/assets/img/logo.png" alt=""></a>--%>
         </div>
         <!-- 右侧内容 -->
         <div class="tpl-header-fluid">
