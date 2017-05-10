@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title><c:set var="iutilsName" value='${fnc:getConfig("iutils.name")}' />${iutilsName} - 后台管理</title>
+    <title><c:set var="iutilsName" value='${fnc:getConfig("iutils.name")}' />${iutilsName} - 数据管理后台</title>
     <%@ include file="include/head.jsp"%>
     <link rel="stylesheet" href="${ctxStatic}/custom/css/amazeui.select.css">
 </head>
